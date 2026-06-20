@@ -1,3 +1,2 @@
-*.v linguist-documentation=false
-*.py linguist-documentation=false
-*.ino linguist-documentation=false
+*.py linguist-vendored=true
+*.ino linguist-vendored=true
