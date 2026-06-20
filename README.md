@@ -1,0 +1,1 @@
+# Design-of-hybrid-SoC-for-an-intelligent-agricultural-deterrent-system-with-an-embedded-vision-core
