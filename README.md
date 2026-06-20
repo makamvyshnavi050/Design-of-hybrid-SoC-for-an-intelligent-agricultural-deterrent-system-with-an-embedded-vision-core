@@ -16,3 +16,9 @@ This project implements a fully edge-computed, low-latency system that combines 
 * Hardware Logic Core: Nexys Board (Xilinx Artix-7 FPGA), Verilog HDL.
 * Edge Communication: ESP32-CAM (WiFi-to-GPIO conversion), ESP32-Dev Module.
 * Peripherals: DFPlayer Mini (Audio Player), High-Intensity LED Strobe Circuit, 8-ohm Speaker.
+
+# Paper Publication
+Paper based on this project has been officially published:
+* Paper Title: Design of Hybrid SOC for an Intelligent Agricultural Deterrent System with an Embedded Vision Core
+* Journal: International Journal for Research in Applied Science & Engineering Technology (IJRASET)
+* Digital Object Identifier (DOI): https://doi.org/10.22214/ijraset.2026.80142
