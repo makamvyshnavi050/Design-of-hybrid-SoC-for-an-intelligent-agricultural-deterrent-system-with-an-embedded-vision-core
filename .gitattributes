@@ -1,2 +1,3 @@
-*.py linguist-detectable=false
-*.ino linguist-detectable=false
+*.v linguist-documentation=false
+*.py linguist-documentation=false
+*.ino linguist-documentation=false
